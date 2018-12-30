@@ -21,7 +21,7 @@ def htmlify(text):
 <style>
    
 body {
-     background-image: url("static/ggg.jpg")
+     background-image: url("./static/wallpaper.jpg")
 }
 .header {
       background-color: transparent;
@@ -77,7 +77,7 @@ p {
 </head>
 <body >
  <div class="header">
-  <h1>  NBA and the Beautiful Game</h1>
+  <h1>  My </h1>
  </div>
  
   <div class="navbar">
