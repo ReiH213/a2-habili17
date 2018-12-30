@@ -150,6 +150,14 @@ def contact():
                    <input type="text" name="password" />
                    <input type="submit" value="submit" />
                 </form>
+                
+<h2>Did you enjoy my webpage ?</h2>
+
+<form>
+  <input type="radio" name="" value="Yes" checked> Yes<br>
+  <input type="radio" name="" value="No"> No<br>
+</form> 
+
 
 
 """)
