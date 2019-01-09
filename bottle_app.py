@@ -10,7 +10,7 @@ def static_file_callback(filename):
  return static_file(filename, root='./')
 
 def htmlify(text):
-    homepage = """
+    page = """
         <!doctype html>
          <html lang="en
          <head>
